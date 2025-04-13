@@ -4,4 +4,4 @@ This is a very important subject for me — Google Ads is what got me interested
 
 This project walks you through my exact workflow for conducting keyword research and forecasting campaign performance — using only free tools. My goal is to help others understand how to create strategic ad projections rooted in real business KPIs and high-intent search behavior.
 
-👉 [View the full Notion guide](https://your-notion-link-here)
+👉 [View the full Notion guide](https://www.notion.so/Keyword-Research-Forecasting-for-Google-Ads-1d4711a9a82c80ba85a0ee0c3e937419?pvs=4)
